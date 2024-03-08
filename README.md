@@ -19,21 +19,27 @@ Requisitos
 
 Instalación
 
-    Clona este repositorio:
+    [Clona este repositorio:](https://github.com/francellaCC/apiClima.git)
 
-git clone https://github.com/tu-nombre-de-usuario/tu-nombre-de-app.git](https://github.com/francellaCC/apiClima.git
+
 
     Instala las dependencias:
+    
+    npm install
 
-npm install
+    
+Crea una cuenta en OpenWeatherMap y obtén tu clave API.
 
-    Crea una cuenta en OpenWeatherMap y obtén tu clave API.
+  Agrega tu clave API al archivo
 
-    Agrega tu clave API al archivo .env
+     .env
+
+
 
     Inicia el servidor de desarrollo:
 
-npm run dev
+      npm run dev
+
 
     ¡Abre tu navegador en http://localhost:3000 y disfruta!
 
