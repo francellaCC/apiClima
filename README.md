@@ -3,12 +3,16 @@
 ¡Hola!
 
 Este README te ayudará a comenzar con tu aplicación React.
-Base de la aplicación
+
 
 Esta aplicación se ha creado con React y Vite. No se ha utilizado Node.js para la creación de la aplicación.
+
+
 API
 
 La aplicación utiliza la API de OpenWeatherMap: https://openweathermap.org/ para obtener datos meteorológicos.
+
+
 Requisitos
 
     npm >= 7.24.0 o yarn >= 1.22.10
