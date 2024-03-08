@@ -17,7 +17,7 @@ Instalación
 
     Clona este repositorio:
 
-git clone https://github.com/tu-nombre-de-usuario/tu-nombre-de-app.git
+git clone https://github.com/tu-nombre-de-usuario/tu-nombre-de-app.git](https://github.com/francellaCC/apiClima.git
 
     Instala las dependencias:
 
